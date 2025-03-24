@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello Code Ninjas, I'm Kelvin
+# Hello Code Ninjas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kelvin
 
 ### 💻 Full-Stack Developer | 🚀 Building Scalable Web Applications
 
