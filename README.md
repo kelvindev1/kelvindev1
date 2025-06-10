@@ -44,11 +44,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelvindev1&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvindev1&theme=radical" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvindev1&layout=compact&theme=radical" />
 </div>
 
@@ -62,6 +57,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__calvins)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinmutugi336@gmail.com)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvindev1&label=Profile%20views&color=0e75b6&style=flat" alt="kelvindev1" />
-</div>
